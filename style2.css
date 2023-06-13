@@ -1,0 +1,20 @@
+.fa{
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook{
+    background: #F2BED1;
+    color: black;
+}
+.fa-twitter{
+    background: #F2BED1;
+    color: black;
+}
+.fa-google{
+    background: #F2BED1;
+    color: black;
+}
